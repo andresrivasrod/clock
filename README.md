@@ -1,2 +1,2 @@
-<h1>CLock</h1>
+<h1>Clock</h1>
 Web app that simulates a clock
